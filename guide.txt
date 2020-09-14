@@ -1,0 +1,4 @@
+myvenv\Scripts\activate
+
+
+MODEL => Database
