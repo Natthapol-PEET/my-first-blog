@@ -2,3 +2,8 @@ myvenv\Scripts\activate
 
 
 MODEL => Database
+
+python manage.py runserver
+
+pip3.8 install --user pythonanywhere
+pa_autoconfigure_django.py --python=3.8 https://github.com/Natthapol-PEET/my-first-blog.git
